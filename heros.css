@@ -1,0 +1,30 @@
+body{
+    margin:0;
+    background: url("Superheroes\ HD\ Wallpapers\ Download.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#return-pages{
+    display: inline-block;
+    margin-top: 15px;
+}
+/* h2{
+    margin-top: 25px;
+    display: inline-flex;
+} */
+#details{
+    color:#fff;
+}
+#details img{
+    width:300px;
+    height:300px;
+    box-sizing: 2px solid rgb(202, 179, 179);
+    margin-top: 10px;
+    margin-left: 50px;
+}
+#my-container{
+    margin-top: 25px;;
+    width:50%;
+    height:98%;
+    background-color: rgb(13 110 253 / 25%);
+}
